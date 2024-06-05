@@ -23,6 +23,10 @@ To run the Memory Game locally on your machine, follow these steps:
 1. Clone this repository to your local machine using `git clone`.
 2. Open the `index.html` file in your web browser.
 3. Start playing the game by clicking on the cards to reveal their images and match pairs.
+
+   Or
+
+   https://jinang12.github.io/Memory-Game/
    
 
 ## Contributing
